@@ -129,7 +129,7 @@ body footer {
   bottom: 0;
   background: -webkit-gradient(linear, left top, right top, from(#00093c), to(#2d0b00));
   background: linear-gradient(to right, #00093c, #2d0b00);
-  color: #fff;
+  color: #cccccc;
   padding: 100px 0 30px;
   border-radius: 125px 0 0 0;
   font-size: 13px;
@@ -184,7 +184,7 @@ body footer .row .col h3 .underLine {
 body footer .row .col h3 .underLine span {
   width: 15px;
   height: 100%;
-  background: #fff;
+  background: #cccccc;
   border-radius: 3px;
   position: absolute;
   top: 0;
@@ -197,7 +197,7 @@ body footer .row .col .emailId {
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #cccccc;
   margin: 20px 0;
 }
 
@@ -208,7 +208,7 @@ body footer .row .col ul li {
 
 body footer .row .col ul li a {
   text-decoration: none;
-  color: #ccc;
+  color: #cccccc;
 }
 
 body footer .row .col form {
@@ -222,7 +222,7 @@ body footer .row .col form {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #cccccc;
   margin-bottom: 50px;
 }
 
@@ -234,7 +234,7 @@ body footer .row .col form .far {
 body footer .row .col form input {
   width: 100%;
   background: transparent;
-  color: #ccc;
+  color: #cccccc;
   border: 0;
   outline: none;
 }
@@ -248,7 +248,7 @@ body footer .row .col form button {
 
 body footer .row .col form button .fas {
   font-size: 16px;
-  color: #ccc;
+  color: #cccccc;
 }
 
 body footer .row .col .socialIcon .fab {
@@ -272,7 +272,7 @@ body footer .row .col:nth-child(2), body footer .row .col:nth-child(3) {
 body footer hr {
   width: 90%;
   border: 0;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #cccccc;
   margin: 20px auto;
 }
 

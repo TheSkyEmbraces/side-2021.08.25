@@ -16,7 +16,7 @@ body {
         position: absolute;
         bottom: 0;
         background: linear-gradient(to right, #00093c, #2d0b00);
-        color: #fff;
+        color: $mainColor;
         padding: 100px 0 30px;
         border-radius: 125px 0 0 0;
         font-size: 13px;
@@ -56,7 +56,7 @@ body {
                         span {
                             width: 15px;
                             height: 100%;
-                            background: #fff;
+                            background: $mainColor;
                             border-radius: 3px;
                             position: absolute;
                             top: 0;
@@ -68,7 +68,7 @@ body {
 
                 .emailId {
                     width: fit-content;
-                    border-bottom: 1px solid #ccc;
+                    border-bottom: 1px solid $mainColor;
                     margin: 20px 0;
                 }
 
@@ -79,7 +79,7 @@ body {
 
                         a {
                             text-decoration: none;
-                            color: #ccc;
+                            color: $mainColor;
                         }
                     }
                 }
@@ -89,7 +89,7 @@ body {
                     display: flex;
                     align-items: center;
                     justify-content: space-between;
-                    border-bottom: 1px solid #ccc;
+                    border-bottom: 1px solid $mainColor;
                     margin-bottom: 50px;
 
                     .far {
@@ -101,7 +101,7 @@ body {
                     input {
                         width: 100%;
                         background: transparent;
-                        color: #ccc;
+                        color: $mainColor;
                         border: 0;
                         outline: none;
                     }
@@ -114,7 +114,7 @@ body {
 
                         .fas {
                             font-size: 16px;
-                            color: #ccc;
+                            color: $mainColor;
                         }
                     }
                 }
@@ -144,7 +144,7 @@ body {
         hr {
             width: 90%;
             border: 0;
-            border-bottom: 1px solid #ccc;
+            border-bottom: 1px solid $mainColor;
             margin: 20px auto;
         }
 
